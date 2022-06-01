@@ -1,0 +1,8 @@
+|(*) = Pendientes|
+
+Enlaces eliminados
+Conectar secciones
+Añadir smooth scroll al nav *
+Eliminar código sobrante *
+Eliminar páginas sobrantes *
+Eliminar contenido y recursos sobrantes *
